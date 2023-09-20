@@ -1,8 +1,7 @@
 # Finetuned Hypervisor
 
 ## Description
-Hypervisior implementation using Intel VT-X technology. 
-Fixed the noisy output in the kernel. Guest code and VM Exit & VM Entry to be added.  
+The Hypervisior implementation is using Intel VT-X technology 
 
 ## QuickStart
 - To compile and insert the hypervisor with guest code
